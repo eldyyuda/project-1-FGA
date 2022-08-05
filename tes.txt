@@ -1,0 +1,44 @@
+def convert(mua,mutk,jmtu):
+    savemua=''
+    savemutk=''
+    hasil=''
+
+    savemua=next(savemua)
+    # for mu,nilai in kurs.items():
+    #     if(mu == mua):
+    #         savemua=int(nilai)
+    #     else:
+    #         hasil= "Kode Mata Uang Asal Tidak Ada"
+    #         break
+        
+    # for mu,nilai in kurs.items(): 
+    #     if(mu == mutk):
+    #         savemutk=int(nilai)
+    #     else:
+    #         hasil= "Kode Mata Uang Asal Tidak Ada"
+    #         break
+    # print(f"{savemutk} tes  {savemua}")
+    # print(mua,mutk,jmtu)
+    # for mu,nilai in kurs.items():
+    #     if(mu==mutk):
+    #         print("bisa 2")
+    #         break
+    #     else:
+    #         hasil= "Kode Mata Uang Asal Tidak Ada"
+    #         break
+    #     if(mua in k):
+    #         savemua=kurs[k]
+    #         break
+    #     elif(mua not in k):
+    #         return "Kode mata uang asal tidak ada"
+    # for k in kurs:    
+    #     if(k==mutk):
+    #         savemutk=kurs[k]
+    #         break
+    #     elif(k!=mutk):
+    #         return "kode mata uang tujuan tidak ada"
+
+    # hasilMua=savemua*jmtu
+    # hasil=hasilMua*savemutk
+    # return print(f'{hasil} {mutk}')
+    
